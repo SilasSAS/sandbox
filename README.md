@@ -1,1 +1,3 @@
-Ajout d'un fichier README.'
+Ajout d'un fichier README.
+
+Des modifications en cours
